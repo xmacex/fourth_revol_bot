@@ -13,7 +13,6 @@ Just some development notes for myself below.
 Originally generated this project with
 ```
 mvn archetype:generate -DgroupId=io.github.xmacex.fourth_revol_bot -DartifactId=fourth_revol_bot -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
-
 ```
 
 # Build with
