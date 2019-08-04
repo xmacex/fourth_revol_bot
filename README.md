@@ -26,4 +26,4 @@ Then run with
 java -cp target/fourth_revol_bot-1.0-SNAPSHOT.jar io.github.xmacex.fourth_revol_bot.App
 ```
 
-Or <kbd>C-C</kbd> <kbd>C-V</kbd> <kbd>C-E</kbd> in JDEE is the _prj.el_ file successfully gets read.
+Or <kbd>C-C</kbd> <kbd>C-V</kbd> <kbd>C-R</kbd> in JDEE is the _prj.el_ file successfully gets read.
